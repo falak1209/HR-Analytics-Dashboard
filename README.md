@@ -129,3 +129,6 @@ Department-wise attrition insights
 Employee satisfaction analysis
 
 Real-time HR data integration.
+
+## Screenshot
+https://github.com/falak1209/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
