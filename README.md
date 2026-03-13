@@ -1,12 +1,12 @@
 # HR-Analytics-Dashboard
-HR Analytics Dashboard 📊
+## HR Analytics Dashboard 📊
 Project Overview
 
 The HR Analytics Dashboard is a data visualization project designed to analyze employee attrition and workforce trends within an organization. The dashboard provides key insights into employee demographics, attrition patterns, salary distribution, and job roles to help HR teams make data-driven decisions.
 
 The goal of this project is to identify the factors contributing to employee attrition and help organizations improve employee retention strategies.
 
-Key Metrics Displayed
+## Key Metrics Displayed
 
 The dashboard highlights several important HR metrics:
 
@@ -24,7 +24,7 @@ Average Years at Company: 7 years
 
 These KPIs provide a quick overview of workforce composition and attrition levels.
 
-Dashboard Insights
+## Dashboard Insights
 1. Attrition by Education
 
 This visualization shows how employee attrition varies across different educational backgrounds.
@@ -100,7 +100,7 @@ Female: 80
 
 This helps HR understand gender distribution in employee turnover.
 
-Technologies Used
+## Technologies Used
 
 Power BI – Data visualization and dashboard creation
 
@@ -108,7 +108,7 @@ Excel / Dataset – Data source and preprocessing
 
 Data Analytics Techniques – Data aggregation and insight generation
 
-Business Value
+## Business Value
 
 This dashboard helps HR departments:
 
@@ -120,7 +120,7 @@ Improve retention strategies
 
 Support data-driven HR decision-making
 
-Future Improvements
+## Future Improvements
 
 Predictive attrition analysis using machine learning
 
@@ -128,4 +128,4 @@ Department-wise attrition insights
 
 Employee satisfaction analysis
 
-Real-time HR data integration
+Real-time HR data integration.
